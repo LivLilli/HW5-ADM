@@ -1,8 +1,47 @@
 # Homework 5 - Visit the Wikipedia hyperlinks graph!
-### Maria Luisa Croci, Livia Lilli, PavanKumar Alikana
+
+### Group 7
+
+Welcome to the homework 4 repository.
 
 
-<p align="center">
-  <img width="700" height="350" src="https://camo.githubusercontent.com/6a30b5d2d01c1921bc754dfd17fc2b183041d178/68747470733a2f2f63727970746f6272696566696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f57696b6970656469612d616e642d526571756573742d4e6574776f726b2d656e61626c652d646f6e6f72732d746f2d646f6e6174652d696e2d63727970746f63757272656e63792e6a7067">
-</p>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/6a30b5d2d01c1921bc754dfd17fc2b183041d178/68747470733a2f2f63727970746f6272696566696e672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30342f57696b6970656469612d616e642d526571756573742d4e6574776f726b2d656e61626c652d646f6e6f72732d746f2d646f6e6174652d696e2d63727970746f63757272656e63792e6a7067">
+</div>
+
+
+
+
+*******************************************************
+
+
+## Repository description
+
+* `Homework5.ipynb`:
+> This file contains codes and comments about <i>Questions</i> of Homework 4 .
+
+* `functions.py`:
+> This file contains all the functions about the <b>block ranking</b>.
+
+
+
+
+## Homework text
+
+To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018/tree/master/Homework_4"> here </a>.
+
+
+
+
+## Authors
+
+* Livia Lilli
+
+
+* Maria Luisa Croci
+
+
+* Pavan Kumar Alikana
+
 
