@@ -18,7 +18,7 @@ Welcome to the homework 4 repository.
 
 ## Repository description
 
-* `Homework5.ipynb`:
+* `Homework_5.ipynb`:
 > This file contains codes and comments about <i>Questions</i> of Homework 4 .
 
 * `functions.py`:
