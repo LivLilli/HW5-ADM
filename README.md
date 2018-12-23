@@ -19,7 +19,7 @@ Welcome to the homework 5 repository.
 ## Repository description
 
 * `homework_5.ipynb`:
-> This file contains codes and comments about <i>Questions</i> of Homework 4 .
+> This file contains codes and comments about <i>Questions</i> of Homework 5 .
 
 
 
