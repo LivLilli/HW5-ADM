@@ -32,7 +32,7 @@ Welcome to the homework 5 repository.
 To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018/tree/master/Homework_5"> here </a>.
 
 
-<img src="http://allthingsgraphed.com/public/images/stellar/night-sky-stellar-network.png" height="100" width="800">
+<img src="http://allthingsgraphed.com/public/images/stellar/night-sky-stellar-network.png">
 
 
 
