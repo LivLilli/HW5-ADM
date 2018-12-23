@@ -21,8 +21,6 @@ Welcome to the homework 5 repository.
 * `homework_5.ipynb`:
 > This file contains codes and comments about <i>Questions</i> of Homework 4 .
 
-* `functions.py`:
-> This file contains all the functions about the <b>block ranking</b>.
 
 
 
