@@ -27,7 +27,7 @@ Welcome to the homework 5 repository.
 
 ## Homework text
 
-To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018/tree/master/Homework_5"> here </a>.
+To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM/tree/master/2018/Homework_5"> here </a>.
 
 
 <img src="http://allthingsgraphed.com/public/images/stellar/night-sky-stellar-network.png">
